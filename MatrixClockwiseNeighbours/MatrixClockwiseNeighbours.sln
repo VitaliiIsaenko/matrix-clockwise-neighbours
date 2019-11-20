@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixClockwiseNeighbours", "MatrixClockwiseNeighbours\MatrixClockwiseNeighbours.csproj", "{77AD2A52-D0DA-4B8A-A02B-88A0FCFB1E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixClockwiseNeighbours.Tests", "MatrixClockwiseNeighbours.Tests\MatrixClockwiseNeighbours.Tests.csproj", "{22D39AD6-8164-40CB-BD57-8A2CF7AACC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AD2A52-D0DA-4B8A-A02B-88A0FCFB1E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AD2A52-D0DA-4B8A-A02B-88A0FCFB1E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AD2A52-D0DA-4B8A-A02B-88A0FCFB1E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AD2A52-D0DA-4B8A-A02B-88A0FCFB1E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D39AD6-8164-40CB-BD57-8A2CF7AACC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D39AD6-8164-40CB-BD57-8A2CF7AACC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D39AD6-8164-40CB-BD57-8A2CF7AACC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D39AD6-8164-40CB-BD57-8A2CF7AACC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
